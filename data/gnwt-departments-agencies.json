@@ -1,0 +1,135 @@
+{
+ "gnwtDepartmentsAgencies":
+    [
+        {
+            "name": "Education, Culture and Employement",
+            "acronym": "ECE",
+            "orgType": "department"
+        },
+        {
+            "name" : "Environment and Natural Resources",
+            "acronym" : "ENR",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Executive and Indigenous Affairs",
+            "acronym" : "EIA",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Finance",
+            "acronym" : "FIN",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Health and Social Services",
+            "acronym" : "HSS",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Industry, Tourism and Investment",
+            "acronym" : "ITI",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Infrastructure",
+            "acronym" : "INF",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Justice",
+            "acronym" : "JUS",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Lands",
+            "acronym" : "LAN",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Legislative Assembly",
+            "acronym" : "LA",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Municipal and Community Affairs",
+            "acronym" : "MACA",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Industry, Tourism and Investment",
+            "acronym" : "ITI",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Infrastructure",
+            "acronym" : "INF",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Justice",
+            "acronym" : "JUS",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Lands",
+            "acronym" : "LANDS",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Legislative Assembly",
+            "acronym" : "LEG",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Municipal and Community Affairs",
+            "acronym" : "MACA",
+            "orgType" : "department"
+        },
+        {
+            "name" : "Aurora College",
+            "acronym" : "AC",
+            "orgType" : "agency"
+        },
+        {
+            "name" : "NWT Business Development & Investment Corporation",
+            "acronym" : "BDIC",
+            "orgType" : "agency"
+        },
+        {
+            "name" : "NWT Health and Social Services Authority",
+            "acronym" : "HSS",
+            "orgType" : "agency"
+        },
+        {
+            "name" : "Hay River Health & Social Services Authority",
+            "acronym" : "HRHSS",
+            "orgType" : "agency"
+        },
+        {
+            "name" : "NWT Housing Corporation",
+            "acronym" : "NWTHC",
+            "orgType" : "agency"
+        },
+        {
+            "name" : "Northwest Territories Liquor and Cannabis Commission",
+            "acronym" : "NTLCC",
+            "orgType" : "agency"
+        },
+        {
+            "name" : "Northwest Territories Power Corporation",
+            "acronym" : "NTPC",
+            "orgType" : "agency"
+        },
+        {
+            "name" : "Tlicho Community Services Agency",
+            "acronym" : "TCSA",
+            "orgType" : "agency"
+        },
+        {
+            "name" : "Workers' Safety and Compensation Commission",
+            "acronym" : "WSCC",
+            "orgType" : "agency"
+        }
+    ]
+}
