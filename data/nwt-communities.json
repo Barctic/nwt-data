@@ -1,0 +1,279 @@
+{
+    "nwtCommunities": [
+        {
+            "name": "Aklavik",
+            "translation": "barren-ground grizzly place",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "Inuvik",
+            "location": "68°13'08″N 135°00'31″W / 68.21889°N 135.00861°W / 68.21889; -135.00861"
+        },
+        {
+            "name": "Behchokǫ̀",
+            "formerName": "Rae Edzo, August 4, 2005",
+            "translation": "Mbehcho's place",
+            "governance": "Self government, Community Government of Behchokö",
+            "municipality": "Yes",
+            "administrationRegion": "North Slave",
+            "location": "62°48'09″N 116°02'47″W / 62.80250°N 116.04639°W / 62.80250; -116.04639"
+        },
+        {
+            "name": "Colville Lake",
+            "translation": "K'áhbamñtúé; ptarmigan net place",
+            "governance": "Designated Authority, Behdzi Ahda First Nation, settlement",
+            "municipality": "No",
+            "administrationRegion": "Sahtu",
+            "location": "67°02'18″N 126°05'32″W / 67.03833°N 126.09222°W / 67.03833; -126.09222"
+        },
+        {
+            "name": "Délı̨nę",
+            "formerName": "Fort Franklin, June 1, 1993",
+            "translation": "where the waters flow",
+            "governance": "Self government, Deline Got’ine Government, Charter Community",
+            "municipality": "Yes",
+            "administrationRegion": "Sahtu",
+            "location": "65°11'12″N 123°25'18″W / 65.18667°N 123.42167°W / 65.18667; -123.42167"
+        },
+        {
+            "name": "Dettah",
+            "translation": "burnt point",
+            "governance": "Designated Authority, Yellowknives Dene First Nation, settlement",
+            "municipality": "No",
+            "administrationRegion": "North Slave",
+            "location": "62°24'41″N 114°18'27″W / 62.41139°N 114.30750°W / 62.41139; -114.30750"
+        },
+        {
+            "name": "Enterprise",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "South Slave",
+            "location": "60°33'24″N 116°08'34″W / 60.55667°N 116.14278°W / 60.55667; -116.14278"
+        },
+        {
+            "name": "Fort Good Hope",
+            "formerName": "Fort Hope, unknown",
+            "translation": "Rádeyîlîkóé; rapids place",
+            "governance": "Charter Community. K'asho Got'ine Charter Community",
+            "municipality": "Yes",
+            "administrationRegion": "Sahtu",
+            "location": "66°15'31″N 128°37'43″W / 66.25861°N 128.62861°W / 66.25861; -128.62861"
+        },
+        {
+            "name": "Fort Liard",
+            "translation": "Echaot'l Koe; people from the land of the giants",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "Dehcho",
+            "location": "60°14'27″N 123°28'11″W / 60.24083°N 123.46972°W / 60.24083; -123.46972"
+        },
+        {
+            "name": "Fort McPherson",
+            "translation": "Teet'lit Zhen; at the head of the waters place",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "Inuvik",
+            "location": "67°26'07″N 134°52'55″W / 67.43528°N 134.88194°W / 67.43528; -134.88194"
+        },
+        {
+            "name": "Fort Providence",
+            "translation": "Zhahti Koe; mission house",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "South Slave",
+            "location": "61°21'17″N 117°39'36″W / 61.35472°N 117.66000°W / 61.35472; -117.66000"
+        },
+        {
+            "name": "Fort Resolution",
+            "translation": "Deninoo Kue; moose island",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "South Slave",
+            "location": "61°10'18″N 113°40'18″W / 61.17167°N 113.67167°W / 61.17167; -113.67167"
+        },
+        {
+            "name": "Fort Simpson",
+            "translation": "Liidlii Kue; place where rivers come together",
+            "governance": "Village",
+            "municipality": "Yes",
+            "administrationRegion": "Dehcho",
+            "location": "61°51'47″N 121°21'18″W / 61.86306°N 121.35500°W / 61.86306; -121.35500"
+        },
+        {
+            "name": "Fort Smith",
+            "translation": "Thebacha; beside the rapids",
+            "governance": "Town",
+            "municipality": "Yes",
+            "administrationRegion": "South Slave",
+            "location": "60°00'19″N 111°53'26″W / 60.00528°N 111.89056°W / 60.00528; -111.89056"
+        },
+        {
+            "name": "Gamèti",
+            "formerName": "Rae Lakes, August 4, 2005",
+            "translation": "rabbit net place",
+            "governance": "Self government, Community Government of Gametì,",
+            "municipality": "Yes",
+            "administrationRegion": "North Slave",
+            "location": "64°06'44″N 117°21'13″W / 64.11222°N 117.35361°W / 64.11222; -117.35361"
+        },
+        {
+            "name": "Hay River",
+            "translation": "Xátå'odehchee; Hay River",
+            "governance": "Town",
+            "municipality": "Yes",
+            "administrationRegion": "South Slave",
+            "location": "60°49'59″N 115°46'40″W / 60.83306°N 115.77778°W / 60.83306; -115.77778"
+        },
+        {
+            "name": "Inuvik",
+            "translation": "place of man",
+            "governance": "Town",
+            "municipality": "Yes",
+            "administrationRegion": "Inuvik",
+            "location": "68°21'42″N 133°43'50″W / 68.36167°N 133.73056°W / 68.36167; -133.73056"
+        },
+        {
+            "name": "Jean Marie River",
+            "translation": "Tthedzehk'edeli; water flowing over clay",
+            "governance": "Designated Authority, TthedzehKʼedeli First Nation, settlement",
+            "municipality": "No",
+            "administrationRegion": "Dehcho",
+            "location": "61°31'33″N 120°37'38″W / 61.52583°N 120.62722°W / 61.52583; -120.62722"
+        },
+        {
+            "name": "Kakisa",
+            "translation": "K’agee; between the willows",
+            "governance": "Designated Authority, Ka'a'gee Tu First Nation, settlement",
+            "municipality": "No",
+            "administrationRegion": "South Slave",
+            "location": "60°56'24″N 117°24'51″W / 60.94000°N 117.41417°W / 60.94000; -117.41417"
+        },
+        {
+            "name": "Kátł’odeeche (Hay River Reserve, Hay River Dene 1)",
+            "translation": "Xátå'odehchee; Hay River",
+            "governance": "Designated Authority, K'atlodeeche First Nation, Indian reserve",
+            "municipality": "No",
+            "administrationRegion": "South Slave",
+            "location": "60°50'01″N 115°45'57″W / 60.83361°N 115.76583°W / 60.83361; -115.76583"
+        },
+        {
+            "name": "Łutselk'e",
+            "formerName": "Snowdrift, July 1, 1992",
+            "translation": "place of the Łutsel, a type of small fish",
+            "governance": "Designated Authority, Łutsel K’e Dene First Nation, settlement",
+            "municipality": "No",
+            "administrationRegion": "North Slave",
+            "location": "62°24'19″N 110°44'22″W / 62.40528°N 110.73944°W / 62.40528; -110.73944"
+        },
+        {
+            "name": "Nahanni Butte",
+            "translation": "Tthenáágó; strong rock",
+            "governance": "Designated Authority, Nahanni Butte Dene Band, settlement",
+            "municipality": "No",
+            "administrationRegion": "Dehcho",
+            "location": "61°02'02″N 123°22'50″W / 61.03389°N 123.38056°W / 61.03389; -123.38056"
+        },
+        {
+            "name": "Norman Wells",
+            "translation": "Tåegõhtî; where there is oil",
+            "governance": "Town",
+            "municipality": "Yes",
+            "administrationRegion": "Sahtu",
+            "location": "65°16'59″N 126°50'58″W / 65.28306°N 126.84944°W / 65.28306; -126.84944"
+        },
+        {
+            "name": "Paulatuk",
+            "translation": "Paulatuuq; place of coal",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "Inuvik",
+            "location": "69°21'05″N 124°04'10″W / 69.35139°N 124.06944°W / 69.35139; -124.06944"
+        },
+        {
+            "name": "Sachs Harbour",
+            "translation": "Ikahuak; place to which you cross",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "Inuvik",
+            "location": "71°59'08″N 125°14'53″W / 71.98556°N 125.24806°W / 71.98556; -125.24806"
+        },
+        {
+            "name": "Sambaa Kʼe",
+            "formerName": "Trout Lake, June 21, 2016",
+            "translation": "Place of trout",
+            "governance": "Designated Authority, Sambaa Kʼe Dene Band, settlement",
+            "municipality": "No",
+            "administrationRegion": "Dehcho",
+            "location": "60°26'33″N 121°14'43″W / 60.44250°N 121.24528°W / 60.44250; -121.24528"
+        },
+        {
+            "name": "Tsiigehtchic",
+            "formerName": "Arctic Red River, April 1, 1994",
+            "translation": "mouth of the iron river",
+            "governance": "Charter Community",
+            "municipality": "Yes",
+            "administrationRegion": "Inuvik",
+            "location": "67°26'26″N 133°44'43″W / 67.44056°N 133.74528°W / 67.44056; -133.74528"
+        },
+        {
+            "name": "Tuktoyaktuk",
+            "formerName": "Port Brabant, 1950",
+            "translation": "looks like a caribou",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "Inuvik",
+            "location": "69°26'34″N 133°01'52″W / 69.44278°N 133.03111°W / 69.44278; -133.03111"
+        },
+        {
+            "name": "Tulita",
+            "formerName": "Fort Norman, January 1, 1996",
+            "translation": "where the waters meet",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "Sahtu",
+            "location": "64°54'01″N 125°34'39″W / 64.90028°N 125.57750°W / 64.90028; -125.57750"
+        },
+        {
+            "name": "Ulukhaktok",
+            "formerName": "Holman, April 1, 2006",
+            "translation": "where there is material for ulus",
+            "governance": "Hamlet",
+            "municipality": "Yes",
+            "administrationRegion": "Inuvik",
+            "location": "70°44'11″N 117°46'05″W / 70.73639°N 117.76806°W / 70.73639; -117.76806"
+        },
+        {
+            "name": "Wekweètì",
+            "formerName": "Snare Lakes, November 1, 1998",
+            "translation": "rock lake",
+            "governance": "Self government,  Community Government of Wekweètì",
+            "municipality": "Yes",
+            "administrationRegion": "North Slave",
+            "location": "64°11'25″N 114°10'58″W / 64.19028°N 114.18278°W / 64.19028; -114.18278"
+        },
+        {
+            "name": "Whatì",
+            "formerName": "Lac La Martre, January 1, 1996",
+            "translation": "marten lake",
+            "governance": "Self government, Community Government of Whatì",
+            "municipality": "Yes",
+            "administrationRegion": "North Slave",
+            "location": "63°08'40″N 117°16'22″W / 63.14444°N 117.27278°W / 63.14444; -117.27278"
+        },
+        {
+            "name": "Wrigley",
+            "translation": "Pedzéh Kñ; clay place",
+            "governance": "Designated Authority, Pehdzeh Ki First Nation, settlement",
+            "municipality": "No",
+            "administrationRegion": "Dehcho",
+            "location": "63°13'41″N 123°28'12″W / 63.22806°N 123.47000°W / 63.22806; -123.47000"
+        },
+        {
+            "name": "Yellowknife",
+            "translation": "Sömbak'è; money place",
+            "governance": "City",
+            "municipality": "Yes",
+            "administrationRegion": "North Slave",
+            "location": "62°26'32″N 114°23'51″W / 62.44222°N 114.39750°W / 62.44222; -114.39750"
+        }
+    ]
+}
