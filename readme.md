@@ -1,5 +1,5 @@
 
-<h3 align="center">NWT Data for Makers</h3>
+<h2 align="center">NWT Data for Makers</h2>
 
 <!-- ABOUT -->
 ## About The Project
