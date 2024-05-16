@@ -6,8 +6,8 @@
             "orgType": "department"
         },
         {
-            "name": "Environment and Natural Resources",
-            "acronym": "ENR",
+            "name": "Environment and Climate Change",
+            "acronym": "ECC",
             "orgType": "department"
         },
         {
@@ -38,11 +38,6 @@
         {
             "name": "Justice",
             "acronym": "JUS",
-            "orgType": "department"
-        },
-        {
-            "name": "Lands",
-            "acronym": "LAN",
             "orgType": "department"
         },
         {
